@@ -1,0 +1,39 @@
+# Du lieu sinh ra (khong push)
+dataset_date_md/
+dataset_date_md_v9/
+dataset_lora_md/
+
+# Output model (khong push)
+output_lora/
+lora_adapter*/
+lora_super*/
+merged_lora*/
+
+# Kaggle output
+kaggle_output*/
+staging_*/
+
+# File lon / zip
+*.zip
+*.tar.gz
+*.safetensors
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
+
+# Log / temp
+*.log
+*.tmp
+watch_*.py

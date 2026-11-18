@@ -45,7 +45,8 @@ Bat dau nhanh
 -------------
 
 Buoc 1: Tai assets
-    Tai file ZIP tu Google Drive: [DRIVE_LINK_PLACEHOLDER]
+    Tai file ZIP tu Google Drive:https://drive.google.com/file/d/1SdrTt4B7FZ9b6sc_ibY4fVh-d_vPcR5F/view?usp=share_link
+    
     Giai nen vao thu muc cua ban (vi du: /data/md_ocr_assets)
     Xem chi tiet: data/README_assets.md
 
@@ -108,3 +109,4 @@ V15 (Train moi 15k anh)     708 / 720   98.33%
 License
 -------
 MIT
+

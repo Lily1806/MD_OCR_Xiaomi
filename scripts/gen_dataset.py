@@ -19,7 +19,7 @@ Thu muc assets phai chua:
     user_drawn_samples/drawings.jsonl + images/   (anh nguoi dung ve)
     raw_handwritten_crops/crops_five_new/         (anh so 5 cat thuc te)
 
-Tai assets tai: [DRIVE_LINK_PLACEHOLDER]
+Tai assets tai: https://drive.google.com/file/d/1SdrTt4B7FZ9b6sc_ibY4fVh-d_vPcR5F/view?usp=share_link
 ------------------------------------------------------------------------------------------
 """
 

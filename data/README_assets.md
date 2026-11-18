@@ -1,7 +1,7 @@
 Assets cho viec sinh du lieu khong duoc luu trong repo vi kich thuoc lon.
 
 Tai file assets tai Google Drive:
-[DRIVE_LINK_PLACEHOLDER]
+https://drive.google.com/file/d/1SdrTt4B7FZ9b6sc_ibY4fVh-d_vPcR5F/view?usp=share_link
 
 Sau khi tai ve, giai nen vao thu muc goc cua du an (hoac dat trong bien moi truong MD_OCR_BASE).
 Cau truc thu muc sau khi giai nen:
@@ -27,3 +27,4 @@ Cau truc thu muc sau khi giai nen:
 Sau khi giai nen, chay lenh sau de sinh du lieu:
     export MD_OCR_BASE=/duong/dan/toi/thu_muc_goc
     python3 scripts/gen_dataset.py
+

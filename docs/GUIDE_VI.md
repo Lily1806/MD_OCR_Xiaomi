@@ -26,7 +26,7 @@ Dang nhap Hugging Face de tai mo hinh goc:
 -------------
 
 Tai file ZIP chua du lieu ky tu viet tay tu Google Drive:
-    Link: [DRIVE_LINK_PLACEHOLDER]
+    Link: https://drive.google.com/file/d/1SdrTt4B7FZ9b6sc_ibY4fVh-d_vPcR5F/view?usp=share_link
 
 Giai nen vao thu muc cua ban, vi du /data/md_ocr_assets:
     unzip md_ocr_assets.zip -d /data/md_ocr_assets
@@ -197,3 +197,4 @@ Loi "Khong tim thay adapter":
 Loi "Khong tim thay anh background":
     - Tai assets tu link Drive o Buoc 2 va giai nen dung cau truc
     - Kiem tra bien MD_OCR_BASE tro dung thu muc
+
